@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../lib/libittnotify.a  CMakeFiles/ittnotify.dir/src/ittnotify/ittnotify_static.c.o CMakeFiles/ittnotify.dir/src/ittnotify/jitprofiling.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../lib/libittnotify.a

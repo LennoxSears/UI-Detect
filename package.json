@@ -1,0 +1,17 @@
+{
+  "name": "ui-detect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.6.4",
+    "opencv4nodejs": "^5.0.0",
+    "path": "^0.12.7",
+    "robotjs": "^0.5.1"
+  }
+}
