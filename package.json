@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.6.4",
+    "jimp": "^0.22.7",
     "opencv4nodejs": "^5.0.0",
     "path": "^0.12.7",
     "robotjs": "^0.5.1"
